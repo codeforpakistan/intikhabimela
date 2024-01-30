@@ -2,7 +2,7 @@
     <Head>
         <Title>Intikhabi Mela</Title>
         <Link rel="icon" href="/icon.png" type="image/png" />
-        <Meta name="description" content="Where elections meet art" />
+        <Meta name="description" content="Where elections meet art & tech." />
     </Head>
     <NuxtLayout>
         <Navbar />
